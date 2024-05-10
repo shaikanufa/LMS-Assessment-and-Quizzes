@@ -1,0 +1,32 @@
+.my-4{
+     padding-top: 1px;
+}
+.container{
+    height:100vh;
+    width: 600px;
+    background-color:#DDF2FD;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+}
+.col-sm-4{
+    padding: 5px;
+   
+}
+
+.list{
+    border-color: #9BBEC8;
+    border-radius: 5px;
+    background-color: white;
+}
+button
+{ 
+    background-color: #0a5064;
+    border-radius: 5px;
+    border-color: #9BBEC8;
+    padding: 5px;
+    color: white;
+}
+
